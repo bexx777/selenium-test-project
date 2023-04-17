@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ait.tests.LoginTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-04-17T16:40:37" hostname="DESKTOP-RFMAGPI" time="1.272">
+  <properties/>
+  <testcase name="loginRegisteredUserPositiveTest" classname="com.ait.tests.LoginTests" time="1.272"/>
+  <system-out><![CDATA[18:40:27.820 [Test worker] INFO  com.ait.tests.TestBase -- Start test :loginRegisteredUserPositiveTestwith data :[]
+18:40:39.234 [Test worker] INFO  com.ait.tests.TestBase -- User is logged in. Actual result :true. Expected result: true
+18:40:39.237 [Test worker] INFO  com.ait.tests.TestBase -- PASSED :loginRegisteredUserPositiveTest
+18:40:39.238 [Test worker] INFO  com.ait.tests.TestBase -- **********************************************************************
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
