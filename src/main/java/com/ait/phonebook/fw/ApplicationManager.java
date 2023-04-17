@@ -20,7 +20,7 @@ public class ApplicationManager {
     HomePageHelper home;
     Logger logger = LoggerFactory.getLogger(ApplicationManager.class);
 
-    public ApplicationManager(String property) {
+    public ApplicationManager(String browser) {
         this.browser = browser;
     }
 
